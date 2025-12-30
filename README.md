@@ -12,14 +12,16 @@ This project is a challenge from the Frontend Mentor website, a platform where d
 ## What I learned
 
 - More experience with React props.
+- Better experience with React props styling.
 
 ## Skills
 
-[![](https://skillicons.dev/icons?i=html,js,react)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
 
 - JavaScript
 - React.js
 - HTML5
+- CSS3
   
 ## Support
 

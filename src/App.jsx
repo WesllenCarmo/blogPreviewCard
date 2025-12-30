@@ -5,7 +5,7 @@ import authorImage from './assets/image-avatar.webp';
 function App() {
 
   return (
-    <>
+    <div className="App">
       <Card
         subject= 'Learning'
         data= '21 Dec 2023'
@@ -14,7 +14,7 @@ function App() {
         authorImage={authorImage}
         authorImageAlt= 'A short, dark brown haired man wearing a light blue t-shirt in a white background.'
         authorName= 'Greg Hooper'/>
-    </>
+    </div>
   )
 }
 
