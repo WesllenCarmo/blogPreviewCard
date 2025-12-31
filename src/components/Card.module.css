@@ -2,10 +2,10 @@
     width: 100%;
     max-width: 480px;
     background-color: hsl(0, 0%, 100%);
-    padding: 1.5em;
+    padding: 1.5rem;
     display: flex;
     flex-direction: column;
-    row-gap: 2em;
+    row-gap: 2rem;
     border: 1px solid hsl(0, 0%, 7%);
     border-radius: 20px;
     box-shadow: 10px 10px 0px hsl(0, 0%, 7%);
@@ -17,31 +17,30 @@
 .textContainer {
     display: flex;
     flex-direction: column;
-    row-gap: 1em;
+    row-gap: 1rem;
 }
 .subject {
     width: fit-content;
-    padding: 0.5em 1em;
+    padding: 0.5rem 1rem;
     background-color: hsl(47, 88%, 63%);
     color: hsl(0, 0%, 7%);
     font-weight: 800;
     border-radius: 5px;
 }
 .title {
-    font-size: 1.8em;
+    font-size: 1.5rem;
     color: hsl(0, 0%, 7%);
     font-weight: 800;
 }
 .description {
     color: hsl(0, 0%, 42%);
-    font-size: 1.3em;
-    line-height: 1.5em;
+    line-height: 1.5rem;
 }
 .authorContainer {
     display: flex;
     align-items: center;
-    column-gap: 1em;
-    font-size: 1em;
+    column-gap: 1rem;
+    font-size: 1rem;
     font-weight: 800;
 }
 .authorContainer img {
@@ -52,11 +51,5 @@
 @media (max-width: 480px) {
     .card {
         width: 80%;
-    }
-    .description {
-        font-size: 1em;
-    }
-    .title {
-        font-size: 1.5em
     }
 }
