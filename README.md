@@ -14,7 +14,7 @@ This project is a challenge from the Frontend Mentor website, a platform where d
 
 - Gained more experience with React props
 - Improved my understanding of styling React components
-- Better practice implementing responsive stylesheets
+- Practiced implementing responsive stylesheets
 
 ## Skills
 
