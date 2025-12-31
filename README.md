@@ -7,12 +7,14 @@ This project is a challenge from the Frontend Mentor website, a platform where d
 
 ## Features
 
-- React props used for building an reusable component.
+- Use of React props to build a reusable component
+- Responsive web design
 
 ## What I learned
 
-- More experience with React props.
-- Better experience with React props styling.
+- Gained more experience with React props
+- Improved my understanding of styling React components
+- Better practice implementing responsive stylesheets
 
 ## Skills
 
