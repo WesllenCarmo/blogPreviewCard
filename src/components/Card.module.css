@@ -1,6 +1,6 @@
 .card {
     width: 100%;
-    max-width: 480px;
+    max-width: 420px;
     background-color: hsl(0, 0%, 100%);
     padding: 1.5rem;
     display: flex;
