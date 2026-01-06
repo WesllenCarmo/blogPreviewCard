@@ -35,9 +35,8 @@ This project is a challenge from the Frontend Mentor website, a platform where d
 
 ## Skills
 
-[![](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
 
-- JavaScript
 - React.js
 - HTML5
 - CSS3
@@ -49,4 +48,5 @@ If you have any questions or suggestions about this project, feel free to contac
 ## Authors
 
 - [@WesllenCarmo](https://www.github.com/WesllenCarmo) - Web Developer
+
 
